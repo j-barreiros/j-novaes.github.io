@@ -175,11 +175,12 @@ a {
     justify-content: center;
     align-items: center;
     background: #393e46;
-    padding: 0px 100px;
+    padding: 0px 50px 30px 50px;
 }
 
 .info p {
     color: #eee;
     text-align: center;
     font-size: 25px;
+    line-height: 30px;
 }
